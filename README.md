@@ -1,1 +1,2 @@
-Saya buat ini untuk belajar
+# AR_RESOLUSI
+Ini percobaan saya dalam membuat github
