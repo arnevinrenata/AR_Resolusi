@@ -1,1 +1,1 @@
-# AR_Resolusi
+Saya buat ini untuk belajar
